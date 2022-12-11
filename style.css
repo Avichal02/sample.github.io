@@ -11,8 +11,7 @@ body{
     background-color: #fcf5eb;
 }
 .whole{
-    margin-top: 4rem;
-    margin-left: 8.5rem;
+    margin:auto;
     box-shadow: 6px 6px 5px rgb(212, 193, 177);
 }
 .left{

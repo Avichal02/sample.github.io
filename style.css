@@ -11,8 +11,8 @@ body{
     background-color: #fcf5eb;
 }
 .whole{
-    margin-top: 7vh;
-    margin-left: 11vw;
+    margin-top: 8.5vh;
+    margin-left: 9vw;
     box-shadow: 6px 6px 5px rgb(212, 193, 177);
 }
 .left{
@@ -41,7 +41,7 @@ li{
     list-style-type: none;
     margin-top: 5vh;
     background-color: #fdede8;
-    margin-left: 8vw;
+    margin-left: 9vw;
     padding: 1.2vh 2vw;
     z-index: 2;
     position: absolute;
@@ -50,7 +50,7 @@ li{
     box-shadow: 4px 4px  #f6acdd;
 }
 .right{
-    width: 20vw;
+    width: 25vw;
     height: 81vh;
     background-color: #fcf5eb;
     z-index: 1;
@@ -231,7 +231,7 @@ li{
     font-family: 'Michroma', sans-serif;
 }
 .top{
-    padding-top: 15vh;
+    padding-top: 20vh;
     margin:auto;
     text-align: center;
     width: 15vw;
@@ -239,9 +239,9 @@ li{
 }
 .greet{
     color: #72196c;
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'Open Sans', sans-serif;
-    margin-bottom: 1vh;
+    margin-bottom: 2vh;
 }
 .btn{
     border: 1px solid #72196c;
@@ -250,22 +250,22 @@ li{
     color: #72196c;
     letter-spacing: 1px;
     background-color: #fcf5eb;
-    font-size: 9px;
+    font-size: 13px;
     padding: 1vh 0.5vw;
-    margin-bottom: 1vh;
+    margin-bottom: 2vh;
 }
 .tt{
     color: #72196c;
-    font-size: 10px;
+    font-size: 13px;
     font-family: 'Open Sans', sans-serif;
 }
 .cone{
     display: flex;
     color: #7b2e76;
     font-family: 'Open Sans', sans-serif;
-    margin-left: 5.5vw;
+    margin-left: 7.6vw;
     margin-top: 2vh;
-    font-size: 12px;
+    font-size: 13px;
 }
 .contact{
     padding-right: .5vw;
@@ -279,24 +279,24 @@ li{
 }
 .ttright{
     font-family: 'Michroma', sans-serif;
-    margin-top: 3vh;
-    margin-left: 5vw;
-    font-size: 20px;
+    margin-top: -3vh;
+    margin-left: 6vw;
+    font-size: 25px;
     color: #7b2e76;
     letter-spacing: 3px;
 }
 
 .tttright{
     font-family: 'Michroma', sans-serif;
-    margin-left: 10vw;
-    font-size: 12px;
+    margin-left: 11.7vw;
+    font-size: 15px;
     color: #7b2e76;
 }
 
 .smalltt{
     color: #7b2e76;
-    margin-left: 3.6vw;
-    font-size: 8px;
+    margin-left: 6.5vw;
+    font-size: 10px;
     width: 12vw;
     text-align: right;
     margin-top: 2vh;
@@ -314,5 +314,4 @@ li{
 }
 .nrityakala{
     display: flex;
-    padding-bottom: 1vh;
 }

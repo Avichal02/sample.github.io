@@ -11,13 +11,13 @@ body{
     background-color: #fcf5eb;
 }
 .whole{
-    margin-top: 8.5vh;
-    margin-left: 9vw;
+    margin-top: 4rem;
+    margin-left: 8.5rem;
     box-shadow: 6px 6px 5px rgb(212, 193, 177);
 }
 .left{
-    width: 56vw;
-    height: 83vh;
+    width: 54rem;
+    height: 39rem;
     background-color: #7b2e76;
     z-index: 1;
     display: flex;
@@ -34,24 +34,24 @@ li{
     color: #fcf5eb;
     font-size: 18px;
     display: inline;
-    margin-left: 2.3vw;
+    margin-left: 3rem;
     
 }
 .header ul{
     list-style-type: none;
-    margin-top: 5vh;
+    margin-top: 2.5rem;
     background-color: #fdede8;
-    margin-left: 9vw;
-    padding: 1.2vh 2vw;
+    margin-left: 8rem;
+    padding: .5rem 0.5rem;
     z-index: 2;
     position: absolute;
     border-radius: 18px;
-    width: 52vw;
+    width: 60rem;
     box-shadow: 4px 4px  #f6acdd;
 }
 .right{
-    width: 25vw;
-    height: 81vh;
+    width: 24rem;
+    height: 39rem;
     background-color: #fcf5eb;
     z-index: 1;
 }
@@ -62,19 +62,19 @@ li{
     padding: 5px;
 }
 .close{
-    margin-left: -1.8vw;
+    margin-left: -2rem;
 }
 .nst{
-    margin-top: 2vh;
-    margin-left: 3vw;
+    margin-top: 1rem;
+    margin-left: 3rem;
     
 }
 .name{
     color: white;
     font-family: 'Michroma', sans-serif;
-    margin-left: 4vw;
+    margin-left: 3.8rem;
     font-size: 40px;
-    margin-top: -2vh;
+    margin-top: -1rem;
     letter-spacing: 4.5px;
 }
 .normal{
@@ -84,72 +84,72 @@ li{
     font-size: 13px;
     font-family: 'Michroma', sans-serif;
     color: white;
-    margin-left: 4vw;
+    margin-left: 3.8rem;
     letter-spacing: 2px;
 
 }
 
 .subsub{
-    margin-left: 4vw;
-    width: 21vw;
+    margin-left: 3.8rem;
+    width: 22rem;
     color: white;
-    margin-top: 2.5vh;
+    margin-top: 1rem;
     font-size: 12px;
     font-family: 'Open Sans', sans-serif;
 }
 
 .subleft{
-    margin-right: 33vw;
-    margin-top: 10vh;
-    height: 83vh;
+    margin-right: 33rem;
+    margin-top: 5rem;
+    height: 39rem;
 }
 
 .team{
-    margin-left: 4vw;
+    margin-left: 3.8rem;
     color: white;
     display: flex;
-    margin-top: 3.5vh;
-    padding-right: 2.5vw;
+    margin-top: 2rem;
+    padding-right: 1.5rem;
     font-family: 'Open Sans', sans-serif;
 }
 .bold{
     font-weight: bold;
 }
 .prize{
-    margin-left: 3.7vw;
+    margin-left: 3.7rem;
     color: white;
     display: flex;
-    margin-top: 3vh;
+    margin-top: 1rem;
     font-family: 'Open Sans', sans-serif;
 }
 .theme{
-    margin-left: 3.9vw;
+    margin-left: 4rem;
     color: white;
     display: flex;
-    margin-top: 3vh;
+    margin-top: 1rem;
     font-family: 'Open Sans', sans-serif;
 }
 .timing{
-    margin-left: 4.2vw;
+    margin-left: 4rem;
     color: white;
     display: flex;
     margin-top: 3vh;
     font-family: 'Open Sans', sans-serif;
 }
 .rules{
-    margin-left: 4.2vw;
+    margin-left: 4rem;
     color: white;
     display: flex;
-    margin-top: 7vh;
+    margin-top: 3rem;
     font-family: 'Open Sans', sans-serif;
 }
 .subright{
-    margin-top: 4vh;
-    margin-left: -4vw;
+    margin-top: 3rem;
+    margin-left: -4rem;
 }
 .nritya{
-    margin-top: 10vh;
-    margin-left: -25vw;
+    margin-top: 4rem;
+    margin-left: -25rem;
 }
 .small{
     font-size: 9px;
@@ -157,28 +157,26 @@ li{
 }
 .time{
     display: flex;
-    margin-left: -23vw;
-    margin-top: 1vh;
+    margin-left: -23rem;
+    margin-top: .5rem;
 }
 
 .lowertt{
     color: white;
     font-size: 10px;
-    width: 20vw;
-    margin-top: 1vh;
-    margin-left: -23vw;
+    width: 20rem;
+    margin-top: 1rem;
+    margin-left: -23rem;
     letter-spacing: 2px;
 }
 .white{
     background-color: #fcf5eb;
-    height: 70px;
-    width: 70px;
-    margin-right: 1vw;
-    font-size: 50px;
+    height: 4rem;
+    width: 4rem;
+    margin-right: 0.5rem;
+    font-size: 45px;
     color: #72196c;
     text-align: center;
-    padding-top: 0.2vh;
-    padding-bottom: 0.2vh;
     font-family: 'DM Serif Display', serif;
 }
 .letter{
@@ -186,62 +184,61 @@ li{
 }
 .purple{
     background-color: #f6acdd;
-    height: 70px;
-    width: 70px;
-    margin-right: 1vw;
-    font-size: 50px;
+    height: 4rem;
+    width: 4rem;
+    margin-right: 0.5rem;
+    font-size: 45px;
     color: #72196c;
     text-align: center;
-    padding-bottom: 0.2vh;
     font-family: 'DM Serif Display', serif;
 }
 .day{
     font-family: 'Michroma', sans-serif;
     color: #fcf5eb;
-    margin-top: 0.5vh;
+    margin-top: 0.3rem;
     font-size: 8px;
-    margin-left: 0.95vw;
+    margin-left: 1rem;
 }
 
 
 .hour{
     font-family: 'Michroma', sans-serif;
     color: #fcf5eb;
-    margin-top: 0.5vh;
+    margin-top: 0.3rem;
     font-size: 8px;
-    margin-left: 0.8vw;
+    margin-left: .8rem;
 }
 
 .minute{
     font-family: 'Michroma', sans-serif;
     color: #fcf5eb;
-    margin-top: 0.5vh;
+    margin-top: 0.3rem;
     font-size: 8px;
-    margin-left: 1.5vw;
+    margin-left: 1.1rem;
 }
 
 .second{
     font-family: 'Michroma', sans-serif;
     color: #fcf5eb;
-    margin-top: 0.5vh;
+    margin-top: 0.3rem;
     font-size: 8px;
-    margin-left: 0.3vw;
+    margin-left: 0.1rem;
 }
 .michroma{
     font-family: 'Michroma', sans-serif;
 }
 .top{
-    padding-top: 20vh;
+    padding-top: 9rem;
     margin:auto;
     text-align: center;
-    width: 15vw;
-    padding-bottom: 15vh;
+    width: 15rem;
+    padding-bottom: 7rem;
 }
 .greet{
     color: #72196c;
     font-size: 25px;
     font-family: 'Open Sans', sans-serif;
-    margin-bottom: 2vh;
+    margin-bottom: 1rem;
 }
 .btn{
     border: 1px solid #72196c;
@@ -251,8 +248,8 @@ li{
     letter-spacing: 1px;
     background-color: #fcf5eb;
     font-size: 13px;
-    padding: 1vh 0.5vw;
-    margin-bottom: 2vh;
+    padding: 0.8rem 0.3rem;
+    margin-bottom: 1.5rem;
 }
 .tt{
     color: #72196c;
@@ -263,12 +260,12 @@ li{
     display: flex;
     color: #7b2e76;
     font-family: 'Open Sans', sans-serif;
-    margin-left: 7.6vw;
-    margin-top: 2vh;
+    margin-left: 8rem;
+    margin-top: 1rem;
     font-size: 13px;
 }
 .contact{
-    padding-right: .5vw;
+    padding-right: 0.3rem;
 }
 
 .cname{
@@ -279,8 +276,8 @@ li{
 }
 .ttright{
     font-family: 'Michroma', sans-serif;
-    margin-top: -3vh;
-    margin-left: 6vw;
+    margin-top: -3rem;
+    margin-left: 6rem;
     font-size: 25px;
     color: #7b2e76;
     letter-spacing: 3px;
@@ -288,29 +285,19 @@ li{
 
 .tttright{
     font-family: 'Michroma', sans-serif;
-    margin-left: 11.7vw;
+    margin-left: 11.5rem;
     font-size: 15px;
     color: #7b2e76;
 }
 
 .smalltt{
     color: #7b2e76;
-    margin-left: 6.5vw;
+    margin-left: 8rem;
     font-size: 10px;
-    width: 12vw;
+    width: 10rem;
     text-align: right;
-    margin-top: 2vh;
+    margin-top: 1rem;
     font-family: 'Open Sans', sans-serif;
-}
-.footer{
-    background-color: #fcf5eb;
-    height: 2vh;
-    font-size: 11px;
-    color: #7b2e76;
-    font-family: 'Open Sans', sans-serif;
-    letter-spacing: 5px;
-    text-align: center;
-    padding-top: -5vh;
 }
 .nrityakala{
     display: flex;

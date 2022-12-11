@@ -1,0 +1,318 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: fixed;
+    background-color: #fcf5eb;
+}
+.whole{
+    margin-top: 7vh;
+    margin-left: 11vw;
+    box-shadow: 6px 6px 5px rgb(212, 193, 177);
+}
+.left{
+    width: 56vw;
+    height: 83vh;
+    background-color: #7b2e76;
+    z-index: 1;
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    letter-spacing: 1px;
+    color: #7b2e76;
+    font-size: 18px;
+    font-family: 'DM Serif Display', serif;
+}
+li{
+    color: #fcf5eb;
+    font-size: 18px;
+    display: inline;
+    margin-left: 2.3vw;
+    
+}
+.header ul{
+    list-style-type: none;
+    margin-top: 5vh;
+    background-color: #fdede8;
+    margin-left: 8vw;
+    padding: 1.2vh 2vw;
+    z-index: 2;
+    position: absolute;
+    border-radius: 18px;
+    width: 52vw;
+    box-shadow: 4px 4px  #f6acdd;
+}
+.right{
+    width: 20vw;
+    height: 81vh;
+    background-color: #fcf5eb;
+    z-index: 1;
+}
+.circle{
+    border-radius: 100%;
+    border: 1px solid black;
+    color: black;
+    padding: 5px;
+}
+.close{
+    margin-left: -1.8vw;
+}
+.nst{
+    margin-top: 2vh;
+    margin-left: 3vw;
+    
+}
+.name{
+    color: white;
+    font-family: 'Michroma', sans-serif;
+    margin-left: 4vw;
+    font-size: 40px;
+    margin-top: -2vh;
+    letter-spacing: 4.5px;
+}
+.normal{
+    font-weight: lighter;
+}
+.sub{
+    font-size: 13px;
+    font-family: 'Michroma', sans-serif;
+    color: white;
+    margin-left: 4vw;
+    letter-spacing: 2px;
+
+}
+
+.subsub{
+    margin-left: 4vw;
+    width: 21vw;
+    color: white;
+    margin-top: 2.5vh;
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.subleft{
+    margin-right: 33vw;
+    margin-top: 10vh;
+    height: 83vh;
+}
+
+.team{
+    margin-left: 4vw;
+    color: white;
+    display: flex;
+    margin-top: 3.5vh;
+    padding-right: 2.5vw;
+    font-family: 'Open Sans', sans-serif;
+}
+.bold{
+    font-weight: bold;
+}
+.prize{
+    margin-left: 3.7vw;
+    color: white;
+    display: flex;
+    margin-top: 3vh;
+    font-family: 'Open Sans', sans-serif;
+}
+.theme{
+    margin-left: 3.9vw;
+    color: white;
+    display: flex;
+    margin-top: 3vh;
+    font-family: 'Open Sans', sans-serif;
+}
+.timing{
+    margin-left: 4.2vw;
+    color: white;
+    display: flex;
+    margin-top: 3vh;
+    font-family: 'Open Sans', sans-serif;
+}
+.rules{
+    margin-left: 4.2vw;
+    color: white;
+    display: flex;
+    margin-top: 7vh;
+    font-family: 'Open Sans', sans-serif;
+}
+.subright{
+    margin-top: 4vh;
+    margin-left: -4vw;
+}
+.nritya{
+    margin-top: 10vh;
+    margin-left: -25vw;
+}
+.small{
+    font-size: 9px;
+    font-family: 'Open Sans', sans-serif;
+}
+.time{
+    display: flex;
+    margin-left: -23vw;
+    margin-top: 1vh;
+}
+
+.lowertt{
+    color: white;
+    font-size: 10px;
+    width: 20vw;
+    margin-top: 1vh;
+    margin-left: -23vw;
+    letter-spacing: 2px;
+}
+.white{
+    background-color: #fcf5eb;
+    height: 70px;
+    width: 70px;
+    margin-right: 1vw;
+    font-size: 50px;
+    color: #72196c;
+    text-align: center;
+    padding-top: 0.2vh;
+    padding-bottom: 0.2vh;
+    font-family: 'DM Serif Display', serif;
+}
+.letter{
+    letter-spacing: 5px;
+}
+.purple{
+    background-color: #f6acdd;
+    height: 70px;
+    width: 70px;
+    margin-right: 1vw;
+    font-size: 50px;
+    color: #72196c;
+    text-align: center;
+    padding-bottom: 0.2vh;
+    font-family: 'DM Serif Display', serif;
+}
+.day{
+    font-family: 'Michroma', sans-serif;
+    color: #fcf5eb;
+    margin-top: 0.5vh;
+    font-size: 8px;
+    margin-left: 0.95vw;
+}
+
+
+.hour{
+    font-family: 'Michroma', sans-serif;
+    color: #fcf5eb;
+    margin-top: 0.5vh;
+    font-size: 8px;
+    margin-left: 0.8vw;
+}
+
+.minute{
+    font-family: 'Michroma', sans-serif;
+    color: #fcf5eb;
+    margin-top: 0.5vh;
+    font-size: 8px;
+    margin-left: 1.5vw;
+}
+
+.second{
+    font-family: 'Michroma', sans-serif;
+    color: #fcf5eb;
+    margin-top: 0.5vh;
+    font-size: 8px;
+    margin-left: 0.3vw;
+}
+.michroma{
+    font-family: 'Michroma', sans-serif;
+}
+.top{
+    padding-top: 15vh;
+    margin:auto;
+    text-align: center;
+    width: 15vw;
+    padding-bottom: 15vh;
+}
+.greet{
+    color: #72196c;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 1vh;
+}
+.btn{
+    border: 1px solid #72196c;
+    border-radius: 18px;
+    font-family: 'Michroma', sans-serif;
+    color: #72196c;
+    letter-spacing: 1px;
+    background-color: #fcf5eb;
+    font-size: 9px;
+    padding: 1vh 0.5vw;
+    margin-bottom: 1vh;
+}
+.tt{
+    color: #72196c;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.cone{
+    display: flex;
+    color: #7b2e76;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 5.5vw;
+    margin-top: 2vh;
+    font-size: 12px;
+}
+.contact{
+    padding-right: .5vw;
+}
+
+.cname{
+    letter-spacing: 1px;
+}
+.cno{
+    letter-spacing: 1px;
+}
+.ttright{
+    font-family: 'Michroma', sans-serif;
+    margin-top: 3vh;
+    margin-left: 5vw;
+    font-size: 20px;
+    color: #7b2e76;
+    letter-spacing: 3px;
+}
+
+.tttright{
+    font-family: 'Michroma', sans-serif;
+    margin-left: 10vw;
+    font-size: 12px;
+    color: #7b2e76;
+}
+
+.smalltt{
+    color: #7b2e76;
+    margin-left: 3.6vw;
+    font-size: 8px;
+    width: 12vw;
+    text-align: right;
+    margin-top: 2vh;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer{
+    background-color: #fcf5eb;
+    height: 2vh;
+    font-size: 11px;
+    color: #7b2e76;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 5px;
+    text-align: center;
+    padding-top: -5vh;
+}
+.nrityakala{
+    display: flex;
+    padding-bottom: 1vh;
+}
